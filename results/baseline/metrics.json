@@ -1,0 +1,41 @@
+{
+  "n": 5794,
+  "accuracy": 0.8776320331377286,
+  "macro_precision": 0.8279480049442338,
+  "macro_recall": 0.8077512070787658,
+  "f1_macro": 0.8171120626731543,
+  "f1_landbird": 0.922318395968007,
+  "f1_waterbird": 0.7119057293783015,
+  "precision_landbird": 0.9116309291747888,
+  "recall_landbird": 0.9332594235033259,
+  "precision_waterbird": 0.7442650807136788,
+  "recall_waterbird": 0.6822429906542056,
+  "support_landbird": 4510,
+  "support_waterbird": 1284,
+  "group_accuracy": {
+    "0": 0.9938,
+    "1": 0.8727,
+    "2": 0.4766,
+    "3": 0.8879
+  },
+  "group_count": {
+    "0": 2255,
+    "1": 2255,
+    "2": 642,
+    "3": 642
+  },
+  "worst_group_accuracy": 0.4766,
+  "worst_group": "2",
+  "minority_mean_accuracy": 0.67465,
+  "confusion_matrix": [
+    [
+      4209,
+      301
+    ],
+    [
+      408,
+      876
+    ]
+  ],
+  "tag": "baseline"
+}

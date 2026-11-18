@@ -1,0 +1,80 @@
+[
+  {
+    "metric": "overall_accuracy",
+    "baseline": 0.8776320331377286,
+    "xai_guided": 0.8776320331377286,
+    "delta": 0.0
+  },
+  {
+    "metric": "worst_group_accuracy",
+    "baseline": 0.4766,
+    "xai_guided": 0.4003,
+    "delta": -0.07630000000000003
+  },
+  {
+    "metric": "minority_mean_accuracy",
+    "baseline": 0.67465,
+    "xai_guided": 0.6507000000000001,
+    "delta": -0.023949999999999916
+  },
+  {
+    "metric": "group0_landbird_land",
+    "baseline": 0.9938,
+    "xai_guided": 0.9965,
+    "delta": 0.0027000000000000357
+  },
+  {
+    "metric": "group1_landbird_water",
+    "baseline": 0.8727,
+    "xai_guided": 0.9011,
+    "delta": 0.02839999999999998
+  },
+  {
+    "metric": "group2_waterbird_land",
+    "baseline": 0.4766,
+    "xai_guided": 0.4003,
+    "delta": -0.07630000000000003
+  },
+  {
+    "metric": "group3_waterbird_water",
+    "baseline": 0.8879,
+    "xai_guided": 0.8551,
+    "delta": -0.03280000000000005
+  },
+  {
+    "metric": "f1_macro",
+    "baseline": 0.8171120626731543,
+    "xai_guided": 0.8090100906577044,
+    "delta": -0.008101972015449932
+  },
+  {
+    "metric": "mean_bg_ratio_all",
+    "baseline": 0.435549069289008,
+    "xai_guided": 0.4547716094110623,
+    "delta": 0.01922254012205432
+  },
+  {
+    "metric": "mean_bg_ratio_correct",
+    "baseline": 0.39997615610379417,
+    "xai_guided": 0.4225279425712272,
+    "delta": 0.022551786467433055
+  },
+  {
+    "metric": "mean_bg_ratio_incorrect",
+    "baseline": 0.6906806116681506,
+    "xai_guided": 0.6860255528251122,
+    "delta": -0.0046550588430384066
+  },
+  {
+    "metric": "ratio_minority_groups",
+    "baseline": 0.4373913537728425,
+    "xai_guided": 0.45739477122420613,
+    "delta": 0.020003417451363636
+  },
+  {
+    "metric": "ratio_majority_groups",
+    "baseline": 0.4453943108934799,
+    "xai_guided": 0.46505061036999495,
+    "delta": 0.019656299476515038
+  }
+]

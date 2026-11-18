@@ -1,0 +1,51 @@
+{
+  "tag": "baseline",
+  "n_images": 5794,
+  "n_correct": 5085,
+  "n_incorrect": 709,
+  "ratio_mean_all": 0.435549069289008,
+  "ratio_median_all": 0.4062257973994795,
+  "ratio_mean_correct": 0.39997615610379417,
+  "ratio_median_correct": 0.3814738686607885,
+  "ratio_mean_incorrect": 0.6906806116681506,
+  "ratio_median_incorrect": 0.7483011783472355,
+  "mannwhitney_u": 650311.0,
+  "mannwhitney_p": 7.049740332986628e-168,
+  "spearman_r_ratio_vs_correct": -0.362841712010264,
+  "spearman_p": 8.213204178383351e-180,
+  "logit_coef_standardized": 1.404873518123476,
+  "logit_intercept": -2.6539350396069814,
+  "auc_ratio_predicts_error": 0.8196218585873716,
+  "group_stats": {
+    "0": {
+      "name": "landbird / land (majority)",
+      "n": 2255,
+      "mean": 0.48074593478246536,
+      "median": 0.4693180780518866,
+      "accuracy": 0.9937915742793791
+    },
+    "1": {
+      "name": "landbird / water (minority)",
+      "n": 2255,
+      "mean": 0.38104855624602474,
+      "median": 0.3377582242109594,
+      "accuracy": 0.8727272727272727
+    },
+    "2": {
+      "name": "waterbird / land (minority)",
+      "n": 642,
+      "mean": 0.49373415129966025,
+      "median": 0.44106330476526723,
+      "accuracy": 0.4766355140186916
+    },
+    "3": {
+      "name": "waterbird / water (majority)",
+      "n": 642,
+      "mean": 0.4100426870044945,
+      "median": 0.37895914562386673,
+      "accuracy": 0.8878504672897196
+    }
+  },
+  "ratio_mean_minority_groups": 0.4373913537728425,
+  "ratio_mean_majority_groups": 0.4453943108934799
+}

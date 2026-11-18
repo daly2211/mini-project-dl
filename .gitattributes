@@ -1,0 +1,7 @@
+# Keep binary assets byte-exact on every platform
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pth binary
+*.npz binary

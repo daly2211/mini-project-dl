@@ -1,0 +1,41 @@
+{
+  "n": 5794,
+  "accuracy": 0.8776320331377286,
+  "macro_precision": 0.8383792731778921,
+  "macro_recall": 0.7882531722513486,
+  "f1_macro": 0.8090100906577044,
+  "f1_landbird": 0.9234919607208374,
+  "f1_waterbird": 0.6945282205945713,
+  "precision_landbird": 0.899516501997057,
+  "recall_landbird": 0.948780487804878,
+  "precision_waterbird": 0.7772420443587271,
+  "recall_waterbird": 0.6277258566978193,
+  "support_landbird": 4510,
+  "support_waterbird": 1284,
+  "group_accuracy": {
+    "0": 0.9965,
+    "1": 0.9011,
+    "2": 0.4003,
+    "3": 0.8551
+  },
+  "group_count": {
+    "0": 2255,
+    "1": 2255,
+    "2": 642,
+    "3": 642
+  },
+  "worst_group_accuracy": 0.4003,
+  "worst_group": "2",
+  "minority_mean_accuracy": 0.6507000000000001,
+  "confusion_matrix": [
+    [
+      4279,
+      231
+    ],
+    [
+      478,
+      806
+    ]
+  ],
+  "tag": "xai_guided"
+}
