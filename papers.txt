@@ -1,0 +1,8 @@
+Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization
+https://arxiv.org/abs/1911.08731
+
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+https://arxiv.org/abs/1610.02391
+
+Noise or Signal: The Role of Image Backgrounds in Object Recognition
+https://arxiv.org/abs/2006.09994
